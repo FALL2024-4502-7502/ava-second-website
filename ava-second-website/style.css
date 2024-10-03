@@ -1,0 +1,31 @@
+
+
+/*start of media queries*/
+@media screen and (max-width: 500px){
+main {
+	width: 100%;
+}
+body {
+	background-color: lightgoldenrodyellow;
+}
+
+}
+
+@media screen and (min-width: 501px){
+main {
+	width: 100%;
+}
+body {
+	background-color: lightblue;
+}
+}
+
+@media screen and (min-width: 720px){
+main {
+	width: 100%;
+}
+body {
+	background-color: lightcoral;
+}
+
+}
